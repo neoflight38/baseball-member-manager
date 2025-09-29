@@ -1,0 +1,5 @@
+{
+  "name": "Baseball member Manager",
+  "description": "An application to register baseball players and visually manage their positions with color-coded backgrounds.",
+  "requestFramePermissions": []
+}
